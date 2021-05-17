@@ -1,4 +1,4 @@
-#Solar Performance Insight API Examples
+# Solar Performance Insight API Examples
 
 This repo contains Jupyter Notebooks with example code working through two common workflows for on the Solar Performance Insight platform.
 There are also csvs providing data for January of 2019 for
